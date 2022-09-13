@@ -1,0 +1,13 @@
+C:\Users\arman\source\Projects (Code)\C#\intToBool\obj\Debug\netcoreapp3.1\intToBool.csprojAssemblyReference.cache
+C:\Users\arman\source\Projects (Code)\C#\intToBool\obj\Debug\netcoreapp3.1\intToBool.AssemblyInfoInputs.cache
+C:\Users\arman\source\Projects (Code)\C#\intToBool\obj\Debug\netcoreapp3.1\intToBool.AssemblyInfo.cs
+C:\Users\arman\source\Projects (Code)\C#\intToBool\obj\Debug\netcoreapp3.1\intToBool.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\Projects (Code)\C#\intToBool\bin\Debug\netcoreapp3.1\intToBool.exe
+C:\Users\arman\source\Projects (Code)\C#\intToBool\bin\Debug\netcoreapp3.1\intToBool.deps.json
+C:\Users\arman\source\Projects (Code)\C#\intToBool\bin\Debug\netcoreapp3.1\intToBool.runtimeconfig.json
+C:\Users\arman\source\Projects (Code)\C#\intToBool\bin\Debug\netcoreapp3.1\intToBool.runtimeconfig.dev.json
+C:\Users\arman\source\Projects (Code)\C#\intToBool\bin\Debug\netcoreapp3.1\intToBool.dll
+C:\Users\arman\source\Projects (Code)\C#\intToBool\bin\Debug\netcoreapp3.1\intToBool.pdb
+C:\Users\arman\source\Projects (Code)\C#\intToBool\obj\Debug\netcoreapp3.1\intToBool.dll
+C:\Users\arman\source\Projects (Code)\C#\intToBool\obj\Debug\netcoreapp3.1\intToBool.pdb
+C:\Users\arman\source\Projects (Code)\C#\intToBool\obj\Debug\netcoreapp3.1\intToBool.genruntimeconfig.cache
